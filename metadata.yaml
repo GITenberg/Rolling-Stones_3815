@@ -1,0 +1,37 @@
+_repo: Rolling-Stones_3815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: The dream -- A ruler of men -- The atavism of John Tom Little Bear
+  -- Helping the other fellow -- The marionettes -- The marquis and Miss Sally --
+  A fog in Santone -- The friendly call -- a dinner at ----* --- Sound and fury --
+  Tictocq -- Tracked to doom -- A snapshot at the President -- An unfinished Christmas
+  story -- The unprofitable servant -- Aristocracy versus has -- The prisoner of Zembla
+  -- A strange story -- Fickle fortune, or, How Gladys hustled -- An apology -- Lord
+  Oakhurst's course -- Bexar script no. 2692 -- Queries and answers -- The pewee --
+  Nothing to say -- The murderer -- Some postscripts -- A contribution -- The old
+  farm -- Vanity -- The lullaby boy -- Chanson de Bohême -- Hard to forget -- Drop
+  a tear in this slot -- Tamales -- Some letters.
+title: Rolling Stones
+url: http://www.gutenberg.org/ebooks/3815
